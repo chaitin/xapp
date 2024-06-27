@@ -6,8 +6,8 @@
 <h3 align="center">专注于web指纹识别的工具</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/release/chaitin/xpoc.svg" />
-  <a href="https://docs.xray.cool/#/xpoc">
+  <img src="https://img.shields.io/github/release/chaitin/xapp.svg" />
+  <a href="https://docs.xray.cool/tools/xapp/BasicIntroduction">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
 </p>

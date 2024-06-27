@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="image/xapp_logo.png" alt="xpoc" width="200px">
+	<img src="image/xapp_logo.png" alt="xapp" width="200px">
 	<br>
 </h1>
 
@@ -17,7 +17,7 @@
   <a href="#-特点">特点</a> •
   <a href="#-安装使用">使用</a> •
   <a href="#-贡献-poc">贡献</a> •
-  <a href="https://github.com/chaitin/xpoc/releases">下载</a> •
+  <a href="https://github.com/chaitin/xapp/releases">下载</a> •
   <a href="https://docs.xray.cool/tools/xapp/QuickStart">使用文档</a> 
 </p>
 
@@ -66,7 +66,7 @@ xapp -g web.list -t https://www.example.com
 
 ## 📦 安装使用
 
-在[releases](https://github.com/chaitin/xapp/releases)中下载对应的系统的最新版即可，运行`xpoc -h`即可查看帮助
+在[releases](https://github.com/chaitin/xapp/releases)中下载对应的系统的最新版即可，运行`xapp -h`即可查看帮助
 
 ```bash
   __  /\    ___.   /\_.   /\_.
